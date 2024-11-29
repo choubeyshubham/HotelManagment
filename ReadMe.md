@@ -14,7 +14,7 @@ By Shubham Choubey
   * Dashboard for hotel management.
   
 ### Backend
-* RESTful APIs for managing data and business logic.
+* RESTful APIs for managing cd data and business logic.
 * Database integration for persistent storage.
 * Features include:
   * Room and booking management.
